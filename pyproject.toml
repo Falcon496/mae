@@ -15,4 +15,5 @@ dependencies = [
   "jinja2",
   "fsspec",
   "networkx",
+  "timm>=1.0.16",
 ]

@@ -16,4 +16,5 @@ dependencies = [
   "fsspec",
   "networkx",
   "timm>=1.0.16",
+  "submitit>=1.5.3",
 ]

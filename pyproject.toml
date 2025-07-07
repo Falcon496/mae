@@ -17,4 +17,5 @@ dependencies = [
   "networkx",
   "timm>=1.0.16",
   "submitit>=1.5.3",
+  "tensorboard>=2.19.0",
 ]

@@ -106,7 +106,7 @@ if __name__ == "__main__":
     ap.add_argument("--data_path", type=str, default="./data")
     ap.add_argument("--out_dir",   type=str, default="./outputs_mae_cifar10")
     ap.add_argument("--batch_size", type=int, default=256)
-    ap.add_argument("--epochs",     type=int, default=300)
+    ap.add_argument("--epochs",     type=int, default=600)
     ap.add_argument("--lr",         type=float, default=7.5e-5)
     ap.add_argument("--mask_ratio", type=float, default=0.75)
     ap.add_argument("--num_workers", type=int, default=4)
